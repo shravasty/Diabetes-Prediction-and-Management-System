@@ -1,0 +1,360 @@
+Sr. no,Category,Dish_name,Type,Serving,Calories (cal),Carbohydrates (g),Protein (g),Fat (g),Fiber (g)
+1,Breakfast,Poha,Veg,1 bowl (220g),120,24.4,2.71,1.41,1.69
+2,Breakfast,Aloo Poha,Veg,1 bowl (233g),87,15.06,1.45,2.36,0.7
+3,Breakfast,Dadpe Poha,Veg,1 bowl (233g),186,20.97,4.03,9.95,3.53
+4,Breakfast,Onion Poha,Veg,1 bowl (233g),74,12.04,1.01,2.52,0.62
+5,Breakfast,Peanut Poha,Veg,1 bowl (220g),334.4,46.2,9.13,13.63,2.23
+6,Breakfast,Murmura Poha,Veg,1 katori (80g),109.6,16.8,1.77,3.99,1.82
+7,Breakfast,Bread Poha,Veg,1 katori (100g),203,33.16,7.06,4.88,4.56
+8,Breakfast,Red Rice Poha,Veg,1 cup (100g),366,127,8,3,0
+9,Breakfast,Poha with Peanuts and Cashewnuts,Veg,1 bowl (233g),377.46,55.75,10.72,13.17,4.83
+10,Breakfast,Vegetable Poha with Peanuts,Veg,1 katori (190g),342,60.59,7.75,7.87,5.18
+11,Breakfast,Soya Poha,Veg,1 bowl (233g),466,70.12,15.73,13.78,2.76
+12,Breakfast,Roti Poha,Veg,1 katori (150g),360,57.52,9.34,12.07,2.03
+13,Breakfast,Poha Upma,Veg,1 bowl (233g),230.67,37.83,4.26,7.22,2.35
+14,Breakfast,Usal Poha,Veg,1 katori (150g),190.5,37.97,4.3,2.83,0.24
+15,Breakfast,Aloo Poha with Peanuts,Veg,1 bowl (233g),349.5,35.42,10.79,19.75,3.99
+16,Breakfast,Papad Poha,Veg,1 bowl (224g),759.36,118.35,20.95,22.82,6.62
+17,Breakfast,Upma,Veg,1 bowl (116g),248,45,8,4,0
+18,Breakfast,Idli Upma,Veg,1 katori (130g),314.6,51.52,7.8,8.61,2.54
+19,Breakfast,Dosa Upma,Veg,1 bowl (250g),202.5,30.38,4.27,7.01,1.54
+20,Breakfast,Bread Upma,Veg,1 bowl (350g),738.5,130.38,19.74,15.19,24
+21,Breakfast,Brown Bread Upma,Veg,1 bowl (300g),630,119.9,21.7,7.07,17.4
+22,Breakfast,Oats Rava Upma,Veg,1 bowl (326g),365.12,60.73,12.39,8.21,7.79
+23,Breakfast,Oats Upma with Peanuts,Veg,1 bowl (303g),184.83,31.01,10.07,8.68,8.46
+24,Breakfast,Multigrain Upma,Veg,1 bowl (350g),329,48.17,8.91,11.06,6.05
+25,Breakfast,Cornflakes Upma,Veg,1 bowl (191g),311.33,54.19,7.67,7.82,6.13
+26,Breakfast,Sweet Potato Upma,Veg,1 bowl (233g),284.26,53.98,2.45,6.54,7.62
+27,Breakfast,Tamarind Upma,Veg,1 bowl (303g),406.02,65.47,11.45,10.97,3.08
+28,Breakfast,Rice Idli,Veg,1 Piece (60g),18,17,3,0,0
+29,Breakfast,Fried Idli,Veg,1 Piece (60g),85,10.3,4,3,0
+30,Breakfast,Oats Rava Idli,Veg,1 Piece (40g),81.6,12.23,3.12,2.33,1.45
+31,Breakfast,Ragi Idlil,Veg,1 Piece (20g),22.8,4.8,0.73,0.08,0.51
+32,Breakfast,Monng Dal Spinach Idli,Veg,1 Piece (50g),26,4.2,1.8,0.2,0.8
+33,Breakfast,Masala Idli,Veg,1 Piece (40g),91.2,11.53,2.28,4.06,1.03
+34,Breakfast,Rava Idli,Veg,1 Piece (50g),180,31,6,4,0
+35,Breakfast,Oats Idli with Carrot,Veg,1 Piece (20g),38.2,6.12,1.39,0.95,0.81
+36,Breakfast,Vegetable Idli,Veg,1 Piece (100g),123,17.96,3.02,4.43,2.19
+37,Breakfast,Oats Idli,Veg,1 Piece (40g),88.4,12.4,3.9,2.71,1.96
+38,Breakfast,Palak Suji Idli,Veg,1 Piece (20g),33,5.63,1.27,0.6,0.57
+39,Breakfast,Oats Rava Vegetable Idli,Veg,1 Piece (40g),44.8,6.98,1.69,1.17,1.1
+40,Breakfast,Idli Sandwich,Veg,1 Piece (80g),132,22.66,4.19,2.78,2.84
+41,Breakfast,Plain Dosa,Veg,1 Piece (40g),53.2,8.24,1.36,1.64,0.46
+42,Breakfast,Ragi Dosa,Veg,1 PIece (40g),55.6,10.12,1.11,1.18,1.42
+43,Breakfast,Masala Dosa,Veg,1 Piece (150g),387,58.62,6.05,14.35,3.11
+44,Breakfast,Onion Masala Dosa,Veg,1 Piece (100g),95,14.56,1.41,3.57,1.08
+45,Breakfast,Onion Dosa,Veg,1 Piece (150g),214.5,37.2,4.04,5.47,3.23
+46,Breakfast,Neer Dosa,Veg,1 Piece (50g),105,18.43,1.8,2.68,0.31
+47,Breakfast,Mysore Masala Dosa,Veg,1 Piece (150g),190.5,38.16,5.46,1.86,2.48
+48,Breakfast,Onion Rava Dosa,Veg,1 Piece (100g),171,31.94,3.18,3.12,1.6
+49,Breakfast,Butter Dosa,Veg,1 Piece (80g),177,36,6,1,0
+50,Breakfast,Rava Masala Dosa,Veg,1 Piece (100g),3,71,8,4,0
+51,Breakfast,Rava Dosa (Plain),Veg,1 Piece (80g),126.4,18.84,2.37,4.58,0.9
+52,Breakfast,Mysore Plain Dosa,Veg,1 Piece (150g),170,37,2,2,0
+53,Breakfast,Rava Masala Dosa,Veg,1 Piece (150g),178.5,29.22,3.26,5.3,2.2
+54,Breakfast,Paper Dosa,Veg,1 Piece (60g),79.8,12.35,2.04,2.46,0.69
+55,Breakfast,Moog Dal Dosa,Veg,1 Piece (75g),88,14,5,2,0
+56,Breakfast,Wheat Dosa,Veg,1 Piece (50g),126.5,16.42,2.83,5.51,3.42
+57,Breakfast,Multigrain Dosa,Veg,1 Piece (80g),127.2,18.29,2.5,4.92,2.38
+58,Breakfast,Set Dosa,Veg,1 Piece (25g),52.75,9.84,0.92,1.06,0.09
+59,Breakfast,Egg Dosa,Veg,1 Piece (60g),124.2,17.68,4.18,4.08,1.1
+60,Breakfast,Onion Uttapam,Veg,1 Piece (150g),181.5,29.5,5.2,4.83,3.37
+61,Breakfast,Ragi Uttapam,Veg,1 Piece (80g),130,18,5,4,0
+62,Breakfast,Egg Uttapam,Veg,1 Piece (132g),293.04,33.22,8.83,13.93,1.52
+63,Breakfast,Green Peas Uttapam,Veg,1 Piece (170g),266.9,38.51,6.81,9.62,4.01
+64,Breakfast,Sprouts Uttapam,Veg,1 Piece (170g),270.3,38.71,6.9,9.75,3.88
+65,Breakfast,Coconut Uttapam,Veg,1 Piece (150g),306,33.26,5.83,16.66,5.22
+66,Breakfast,Schezwan Uttapam,Veg,1 Piece (150g),181.5,23.77,4.05,7.7,1.71
+67,Breakfast,Tomato Onion Uttapam,Veg,1 Piece (150g),120,20,2,3,0
+68,Breakfast,Oats Vegi Uttapam,Veg,1 Piece (98g),155.82,28.96,5.2,2.18,4.74
+69,Breakfast,Suji Uttapam,Veg,1 Piece (80g),76,14.56,2.54,0.8,1.59
+70,Breakfast,Oats Uttapam,Veg,1 Piece (150g),223.5,26.47,5.73,10.77,2.29
+71,Breakfast,Bread Suji Uttapam,Veg,1 Piece (80g),108,17.68,3.44,2.63,1.53
+72,Breakfast,Mixed Vegetable Uttapam,Veg,1 Piece (150g),178.5,30.78,4.93,3.96,2.47
+73,Breakfast,Cheese Uttapam,Veg,1 Piece (150g),318,28.9,13.3,16.63,2.16
+74,Breakfast,Corn Uttapam,Veg,1 Piece (150g),226.5,33.96,5.53,8.14,2.91
+75,Breakfast,Coconut Milk Appam,Veg,1 Piece (65g),206.05,20.38,2.85,12.59,1.06
+76,Breakfast,Ragi Appam,Veg,1 PIece (30g),106.5,22.02,2.22,0.87,1.88
+77,Breakfast,Multigrain Vegetable Appam,Veg,1 Piece (60g),63.6,11.45,2.72,0.76,1.99
+78,Breakfast,Appam,Veg,1 Piece (50g),54,10,2,0,0
+79,Breakfast,Rava Appam,Veg,1 Piece (30g),96.9,15.62,1.7,3.08,0.55
+80,Breakfast,Palak Appam,Veg,1 Piece (60g),57,11.09,2.84,0.28,1.85
+81,Breakfast,Sabudana Khichdi,Veg,1 bowl (250g),530,83.18,4.96,20.31,4.49
+82,Lunch,Mooli Matar Paratha,Veg,1 piece (80g),147.2,21.27,4.44,5.03,4.29
+83,Lunch,Gobi Paratha without oil,Veg,1 piece(110g),170.5,33.65,6.68,1.04,0
+84,Lunch,Aloo Palak Paratha,Veg,1 piece(80g),156,21.54,3.72,6.51,3.48
+85,Lunch,Tofu Paratha,Veg,1 piece(100g),244,37.45,7.38,7.42,6.07
+86,Lunch,Mooli Gajar Paratha,Veg,1 piece(80g),122.4,17.64,3.01,4.43,3.21
+87,Lunch,Wheat Paratha with Garlic,Veg,1 piece(60g),154.2,22.67,3.96,5.34,3.45
+88,Lunch,Mughlai Paratha stuffed with Chicken and Egg,Non Veg,1 piece(100g),160,19.61,10.87,4.22,2.77
+89,Lunch,Mix Vegetable Paratha,Veg,1 piece(80g),111.2,18.66,3.48,2.54,3.56
+90,Lunch,Jowar Pyaaz Paratha,Veg,1 piece(80g),144,18.2,2.7,6.7,2.7
+91,Lunch,Egg Paratha,Non Veg,1 piece(80g),196,26.24,7.6,6.64,4.27
+92,Lunch,Dahi Bhindi Sabzi with Bajra Roti,Veg,1 bowl (100g) + 1 piece (35g),168.95,23.71,4.94,6.45,6.32
+93,Lunch,Dahi Bhindi Sabzi with Jowar Roti,Veg,1 bowl (100g) + 1 piece (30g),159.1,24.08,4.91,4.84,5.74
+94,Lunch,Dahi Bhindi Sabzi with Ragi Roti,Veg,1 bowl (100g) + 1 piece (50g),174,28.48,4.19,5.26,6.99
+95,Lunch,Dahi Bhindi Sabzi with Oats Roti,Veg,1 bowl (100g) + 1 piece (50g),175.5,23.75,6.41,6.68,6.21
+96,Lunch,Baingan Bhaja Sabzi with Bajra Roti,Veg,3 slices + 1 piece (35g),139.95,22.23,4.53,3.71,5.94
+97,Lunch,Baingan Bhaja Sabzi with Jowar Roti,Veg,3 slices + 1 piece (30g),130.1,22.6,4.5,2.1,5.36
+98,Lunch,Baingan Bhaja Sabzi with Ragi Roti,Veg,3 slices + 1 piece (50g),55,27,3.78,2.52,6.61
+99,Lunch,Baingan Bhaja Sabzi with Oats Roti,Veg,3 slices + 1 piece (50g),146.5,22.27,6,3.94,5.83
+100,Lunch,Methi Moong Sabzi with Bajra Roti,Veg,1 serving + 1 piece (35g),209.5,31.63,8.63,4.71,7.14
+101,Lunch,Methi Moong Sabzi with Jowar Roti,Veg,1 serving + 1 piece (30g),193.1,32,8.6,3.1,6.56
+102,Lunch,Methi Moong Sabzi with Ragi Roti,Veg,1 serving + 1 piece (50g),208,36.4,7.88,3.52,7.81
+103,Lunch,Methi Moong Sabzi with Oats Roti,Veg,1 serving + 1 piece (50g),209.5,31.67,10.1,4.94,7.03
+104,Lunch,Masala Chawli Sabzi with Bajra Roti,Veg,1 serving + 1 piece (35g),218.95,32.87,8.83,5.71,7.54
+105,Lunch,Masala Chawli Sabzi with Jowar Roti,Veg,1 serving + 1 piece (30g),209.1,33.2,8.8,4.1,6.96
+106,Lunch,Masala Chawli Sabzi with Ragi Roti,Veg,1 serving + 1 piece (50g),224,37.6,8.08,4.52,8.21
+107,Lunch,Masala Chawli Sabzi with Oats Roti,Veg,1 serving + 1 piece (50g),225.5,32.83,10.3,5.94,7.43
+108,Lunch,Palak Mushroom Sabzi with Bajra Roti,Veg,1 bowl (150g) + 1 piece (35g),168.95,23.36,5.01,6.04,4.12
+109,Lunch,Palak Mushroom Sabzi with Jowar Roti,Veg,1 bowl (150g) + 1 piece (30g),159.1,23.73,4.98,4.43,3.54
+110,Lunch,Palak Mushroom Sabzi with Ragi Roti,Veg,1 bowl (150g) + 1 piece (50g),174,28.13,4.26,4.85,4.79
+111,Lunch,Palak Mushroom Sabzi with Oats Roti,Veg,1 bowl (150g) + 1 piece (50g),175.5,23.4,6.48,6.27,4.01
+112,Lunch,Lauki Sabzi with Bajra Roti,Veg,1 Standard Serving (150g) + 1 piece (35g),216.95,42.63,5.63,2.91,2.94
+113,Lunch,Lauki Sabzi with Jowar Roti,Veg,1 Standard Serving (150g) + 1 piece (30g),207.1,43,5.6,1.3,2.36
+114,Lunch,Lauki Sabzi with Ragi Roti,Veg,1 Standard Serving (150g) + 1 piece (50g),222,47.4,4.88,1.72,3.61
+115,Lunch,Lauki Sabzi with Oats Roti,Veg,1 Standard Serving (150g) + 1 piece (50g),223.5,42.67,7.1,3.14,2.83
+116,Lunch,Cabbage Sabzi with Bajra Roti,Veg,1 Standard Serving (150g) + 1 piece (35g),205.95,24.63,7.03,7.61,2.94
+117,Lunch,Cabbage Sabzi with Jowar Roti,Veg,1 Standard Serving (150g) + 1 piece (30g),196.1,25,7,6,2.36
+118,Lunch,Cabbage Sabzi with Ragi Roti,Veg,1 Standard Serving (150g) + 1 piece (50g),211,29.4,6.28,6.42,3.61
+119,Lunch,Cabbage Sabzi with Oats Roti,Veg,1 Standard Serving (150g) + 1 piece (50g),212.5,24.67,8.5,7.84,2.83
+120,Lunch,Baigan Sabzi with Bajra Roti,Veg,1 Standard Serving (125g) + 1 piece (35g),268.85,26.63,6.03,15.61,2.94
+121,Lunch,Baigan Sabzi with Jowar Roti,Veg,1 Standard Serving (125g) + 1 piece (30g),259,27,6,14,2.36
+122,Lunch,Baigan Sabzi with Ragi Roti,Veg,1 Standard Serving (125g) + 1 piece (50g),273.9,31.4,5.28,14.42,3.61
+123,Lunch,Baigan Sabzi with Oats Roti,Veg,1 Standard Serving (125g) + 1 piece (50g),275.4,26.67,7.5,15.84,2.83
+124,Lunch,Mix Veg Sabzi with Bajra Roti,Veg,1 Standard Serving (150g) + 1 piece (35g),249.35,32.63,5.03,10.61,2.94
+125,Lunch,Mix Veg Sabzi with Jowar Roti,Veg,1 Standard Serving (150g) + 1 piece (30g),239.5,33,5,9,2.36
+126,Lunch,Mix Veg Sabzi with Ragi Roti,Veg,1 Standard Serving (150g) + 1 piece (50g),254.4,37.4,4.28,9.42,3.61
+127,Lunch,Mix Veg Sabzi with Oats Roti,Veg,1 Standard Serving (150g) + 1 piece (50g),255.9,32.67,6.5,10.84,2.83
+128,Lunch,Palak Sabzi with Bajra Roti,Veg,1 Standard Serving (150g) + 1 piece (35g),226.95,39.63,7.03,4.61,2.94
+129,Lunch,Palak Sabzi with Jowar Roti,Veg,1 Standard Serving (150g) + 1 piece (30g),217.1,40,7,3,2.36
+130,Lunch,Palak Sabzi with Ragi Roti,Veg,1 Standard Serving (150g) + 1 piece (50g),232,44.4,6.28,3.42,3.61
+131,Lunch,Palak Sabzi with Oats Roti,Veg,1 Standard Serving (150g) + 1 piece (50g),233.5,39.67,8.5,4.84,2.83
+132,Lunch,Gatte Sabzi with Bajra Roti,Veg,1 Standard Serving (160g) + 1 piece (35g),272.95,37.63,6.03,11.41,2.94
+133,Lunch,Gatte Sabzi with Jowar Roti,Veg,1 Standard Serving (160g) + 1 piece (30g),263.1,38,6,9.8,2.36
+134,Lunch,Gatte Sabzi with Ragi Roti,Veg,1 Standard Serving (160g) + 1 piece (50g),278,42.4,5.28,10.22,3.61
+135,Lunch,Gatte Sabzi with Oats Roti,Veg,1 Standard Serving (160g) + 1 piece (50g),279.5,37.67,7.5,11.64,2.83
+136,Lunch,Egg Curry with Bajra Roti,Non Veg,1 bowl (150g) + 1 piece (35g),198.95,25.42,7.49,7.68,6.41
+137,Lunch,Egg Curry with Jowar Roti,Non Veg,1 bowl (150g) + 1 piece (30g),189.1,25.79,7.46,6.07,5.83
+138,Lunch,Egg Curry with Ragi Roti,Non Veg,1 bowl (150g) + 1 piece (50g),204,30.19,6.74,6.49,7.08
+139,Lunch,Egg Curry with Oats Roti,Non Veg,1 bowl (150g) + 1 piece (50g),205.5,25.46,8.96,7.91,6.3
+140,Lunch,Chicken Curry with Bajra Roti,Non Veg,1 bowl (150g) + 1 piece (35g),219.95,22.96,21.42,4.94,5.04
+141,Lunch,Chicken Curry with Jowar Roti,Non Veg,1 bowl (150g) + 1 piece (30g),210.1,23.33,21.39,3.33,4.46
+142,Lunch,Chicken Curry with Ragi Roti,Non Veg,1 bowl (150g) + 1 piece (50g),225,27.73,20.67,3.75,5.71
+143,Lunch,Chicken Curry with Oats Roti,Non Veg,1 bowl (150g) + 1 piece (50g),226.5,23,22.89,5.17,4.93
+144,Lunch,Mughlai Chicken with Bajra Roti,Non Veg,1 bowl (150g) + 1 piece (35g),305.45,23.76,28.06,11.32,4.73
+145,Lunch,Mughlai Chicken with Jowar Roti,Non Veg,1 bowl (150g) + 1 piece (30g),295.6,24.13,28.03,9.71,4.15
+146,Lunch,Mughlai Chicken with Ragi Roti,Non Veg,1 bowl (150g) + 1 piece (50g),310.5,28.53,27.31,10.13,5.4
+147,Lunch,Mughlai Chicken with Oats Roti,Non Veg,1 bowl (150g) + 1 piece (50g),312,23.8,29.53,11.55,4.62
+148,Lunch,Kashmiri Chicken Curry with Bajra Roti,Non Veg,1 bowl (150g) + 1 piece (35g),390.95,21.81,45.64,13.71,4.07
+149,Lunch,Kashmiri Chicken Curry with Jowar Roti,Non Veg,1 bowl (150g) + 1 piece (30g),390.95,22.18,45.61,12.1,3.49
+150,Lunch,Kashmiri Chicken Curry with Ragi Roti,Non Veg,1 bowl (150g) + 1 piece (50g),396,26.58,44.89,12.52,4.49
+151,Lunch,Kashmiri Chicken Curry with Oats Roti,Non Veg,1 bowl (150g) + 1 piece (50g),397.5,21.85,47.11,13.94,3.96
+152,Lunch,Mutton Keema with Bajra Roti,Non Veg,1 bowl (150g) + 1 piece (35g),441.95,29.63,19.03,26.61,6.94
+153,Lunch,Mutton Keema with Jowar Roti,Non Veg,1 bowl (150g) + 1 piece (30g),432.1,30,19,25,6.36
+154,Lunch,Mutton Keema with Ragi Roti,Non Veg,1 bowl (150g) + 1 piece (50g),447,34.4,18.28,25.42,7.61
+155,Lunch,Mutton Keema with Oats Roti,Non Veg,1 bowl (150g) + 1 piece (50g),448.5,29.67,20.5,26.84,6.83
+156,Lunch,Egg Bhurji with Bajra Roti,Non Veg,1 bowl (100g) + 1 piece (35g),223.95,23.67,9.11,10.63,1.69
+157,Lunch,Egg Bhurji with Jowar Roti,Non Veg,1 bowl (100g) + 1 piece (30g),214.1,24.04,9.08,9.02,1.69
+158,Lunch,Egg Bhurji with Ragi Roti,Non Veg,1 bowl (100g) + 1 piece (50g),229,28.44,8.36,9.44,1.69
+159,Lunch,Egg Bhurji with Oats Roti,Non Veg,1 bowl (100g) + 1 piece (50g),230.5,23.71,10.58,10.86,1.69
+160,Lunch,Chilly Chicken with Bajra Roti,Non Veg,1 bowl(150g) + 1 piece (35g),237.95,22.49,23,6.47,4.69
+161,Lunch,Chilly Chicken with Jowar Roti,Non Veg,1 bowl(150g) + 1 piece (30g),228.1,22.86,22.97,4.86,4.11
+162,Lunch,Chilly Chicken with Ragi Roti,Non Veg,1 bowl(150g) + 1 piece (50g),243,27.26,22.25,5.28,5.36
+163,Lunch,Chilly Chicken with Oats Roti,Non Veg,1 bowl(150g) + 1 piece (50g),244.5,22.49,24.47,6.7,4.58
+167,Snacks,Paruppu Adai Dosa,Veg,1 piece(40g),62.8,9.1,2.1,2.03,1.12
+168,Snacks,Oats Dosa,Veg,1 piece(40g),60,6,1,2,0
+169,Snacks,Vegetable Barley Soup,Veg,1 bowl (150g),51,9.95,2.2,0.24,3.48
+170,Snacks,Clear Mushroom Soup,Veg,1 bowl (150g),63,3.11,3.14,3.97,0.61
+171,Snacks,Spinach Soup,Veg,1 bowl (150g),45,5.45,1.59,1.86,1.57
+172,Snacks,Pumpkin Masoor Dal Soup,Veg,1 bowl (150g),79.5,12,4.62,1.41,1.88
+173,Snacks,Amla Karela Juice,Veg,1 glass (250ml),35,6.05,1.96,0.26,5.55
+174,Snacks,Vegetable Hakka Noodles,Veg,1 bowl (100g),185.28,14.95,2.38,13.27,1.81
+175,Snacks,Strawberry Yogurt with Berries,Veg,1 bowl (170g),160,33,4,2,2
+176,Snacks,Neem Jamun Juice,Veg,1 glass (250ml),60,12.6,1.19,0.39,2.55
+177,Snacks,Neem Juice,Veh,1 glass (250ml),20,2.52,1.38,0.36,0.39
+178,Snacks,Roasted Almonds,Veg,1 bowl (28g),150,9,5,14,0
+179,Snacks,Almond Milk,Veg,1 glass (250ml),196,11,9,13,0
+180,Snacks,Mixed Vegetable and Fruit Juice,Veg,1 glass (250ml),72,18.45,0.1,0,0
+181,Snacks,Fruit Delight (1 serving),Veg,1 serving (150g),159,28.13,2.78,4.52,0.48
+182,Snacks,Fruit Delight,Veg,1 bowl (250g),265,46.88,4.73,7.53,0.79
+183,Snacks,Fruit Bread,Veg,1 piece(80g),275.2,52.25,6.56,4.57,2.53
+184,Snacks,Mix Fruit Juice,Veg,1 glass (250ml),130,35,1,0,0
+185,Snacks,Banana Milkshake With Dry Fruits,Veg,1 glass (250ml),267.5,36.15,8.73,9.28,1.88
+186,Snacks,Cornflakes with Milk and Fruits,Veg,1 bowl (150g),136.5,18.58,4.62,5.08,0.89
+187,Snacks,Oats with Milk and Fruits,Veg,1 cup (250g),212.5,30.73,7.6,6.52,4.87
+188,Snacks,Chickpea Parantha,Veg,1 piece(70g),171.5,23.3,4.71,7.41,3.98
+189,Snacks,Oats And Chickpeas Salad,Veg,1 bowl (112g),275.52,41.81,11.99,7.34,8.78
+190,Snacks,Chickpeas Chaat without oil,Veg,1 bowl (150g),243,40.62,13.5,3.63,11.03
+191,Snacks,Spinach Carrot Chickpea Soup,Veg,1 bowl (150g),64.5,9.29,2.56,1.94,3.48
+192,Snacks,Chickpea Kebabs,Veg,1 piece(30g),51.3,4,1.16,3.4,1.23
+193,Snacks,Calories in Rajma and Chickpea Salad,Veg,1 bowl (100g),121,16.08,4.55,4.49,3.54
+194,Snacks,Moong Dal and Chickpea Cheela,Veg,1 piece(70g),178.5,17.69,6.82,9.07,3.18
+195,Snacks,ChickPea Salad,Veg,1 bowl (150g),195,24.46,6.36,8.41,6.73
+196,Snacks,Apple Sprout Salad,Veg,1 bowl (83g),118.69,7.86,2.9,8.52,2.7
+197,Snacks,Sprout Salad with added vegetables,Veg,1 bowl (83g),72,9,0.2,5,0
+198,Snacks,Cucumber Sprout Salad,Veg,1 bowl (83g),18.26,3.66,1.34,0.14,1.89
+199,Snacks,Moong Beans Sprout salad,Veg,1 bowl (83g),46.5,9.03,2.29,0.43,3.28
+200,Snacks,Karela cutlet,Veg,1 piece(30g),125.7,3.3,1.09,12.01,1.23
+201,Snacks,Jamun Karela Juice,Veg,1 glass (250ml),117.5,25.01,2.67,0.65,9.57
+202,Snacks,Karela Potato Juice,Veg,1 glass (250ml),212.5,48.62,4,0.29,5.36
+203,Snacks,Carrot Tomato Karela Juice,Veg,1 glass (250ml),52.5,9.49,2.72,0.5,6
+204,Snacks,Lauki Karela Juice,Veg,1 glass (250ml),57.5,10.46,2.58,0.59,8.59
+205,Snacks,Tomato Salad with Walnuts,Veg,1 bowl (83g),70.52,3.36,1.43,5.73,1.7
+206,Snacks,Oatmeal with Milk Walnuts and Strawberries,Veg,1 bowl (150g),133.6,12.46,3.72,7.62,2.49
+207,Snacks,Dhokla,Veg,1 piece(35g),29.75,3.6,1.17,1.02,0.48
+208,Snacks,Oats Rava Dhokla,Veg,1 piece(35g),89.2,14,3,3,0
+209,Snacks,Jowar Dhokla,Veg,1 piece(35g),67.55,8.32,1.03,3.48,0.81
+210,Snacks,Bread Dhokla,Veg,1 piece(40g),65.6,10.22,2.13,1.82,1.88
+211,Snacks,Dhokla Chaat,Veg,1 piece(35g),98.75,13.91,3.65,3.26,2.01
+212,Snacks,Buckwheat Dhokla,Veg,1 piece(35g),50.75,9.15,1.81,1.1,1.25
+213,Snacks,Chana Dal Methi Dhokla,Veg,1 piece(35g),37.1,4.72,1.79,1.25,1.13
+214,Snacks,Oats Dhokla,Veg,1 piece(35g),89.2,14,3,3,0
+215,Snacks,Moong Dal Dhokla,Veg,1 piece(35g),66.5,6.85,3.73,3.14,1.02
+216,Snacks,Doodhi Dhokla,Veg,1 piece(35g),71.05,7.08,2.38,3.62,1.64
+217,Snacks,Khatta Dhokla,Veg,1 piece(35g),76.84,14.54,2.3,1.96,0.61
+218,Snacks,Paneer Dhokla,Veg,1 piece(35g),33.75,4.46,1.57,1.12,0.48
+219,Snacks,Toor Dal Dhokla,Veg,1 piece(35g),61.6,8.41,1.7,2.38,0.95
+220,Snacks,Soya Khaman Dhokla,Veg,1 piece(35g),74.2,7.29,5.36,2.56,2.77
+221,Snacks,Spinach Dhokla,Veg,1 piece(35g),39.2,5.62,2.05,0.93,1.02
+222,Snacks,Suji Dhokla,Veg,1 piece(15g),37.2,5.04,0.97,1.46,0.28
+223,Snacks,Methi  Thepla,Veg,1 piece(50g),114.5,14.53,2.77,5.07,2.71
+224,Snacks,Dudhi thepla,Veg,1 piece(50g),110.5,18.58,3.57,2.48,3.08
+225,Snacks,Corn Thepla,Veg,1 piece(39g),94.38,12.95,1.55,4.01,1.14
+226,Snacks,Oats Thepla,Veg,1 piece(65g),148.2,26.28,3.45,2.34,4.29
+227,Snacks,Wheat Bajra Thepla,Veg,1 piece(50g),204.05,27.98,4.86,8.15,4.72
+228,Snacks,Gobhi Thepla,Veg,1 piece(50g),82.5,10.54,2.2,3.52,2.2
+229,Snacks,Whole Wheat Bread Toast,Veg,1 piece(28g),68.32,13.72,3.46,0.39,1.09
+230,Snacks,French Toast with Brown Bread,Veg,1 piece(60g),117,17.23,3.9,3.69,1.79
+231,Snacks,Egg Toast,Non Veg,1 piece(40g),90.8,10.24,3.28,4.18,1.46
+232,Snacks,French Toast With Multi Grain Bread,Veg,1 piece(60g),103.8,12.53,4.2,3.88,0.87
+233,Snacks,Whole Wheat Bread Cheese Toast,Veg,1 piece(50g),141.61,15.04,7.53,5.66,1.9
+234,Snacks,Brown Bread Aloo Sandwich,Veg,1 piece(59g),117.16,21.01,3.57,2.53,4.02
+235,Snacks,Brown Bread Vegetable Sandwich,Veg,1 piece(76g),85.12,16.4,3.62,0.56,3.29
+236,Snacks,Idli Sandwich,Veg,1 piece(80g),132,22.66,4.19,2.78,2.84
+237,Snacks,Hard Boiled Egg Sandwich,Non Veg,1 piece(225g),339.75,38.76,13.79,15.2,4.6
+238,Snacks,Scrambled Egg Sandwich,Non Veg,1 piece(112g),237,27.5,10.6,9,0
+239,Snacks,Multigrain Bread Vegetable Sandwich,Veg,1 piece(80g),88,13.62,3.7,2.06,3.21
+240,Snacks,Egg Bhurji Sandwich,Non Veg,1 piece(53g),108.12,15.56,4.44,3.19,1.61
+241,Snacks,Brown Bread Cucumber Tomato Onion Sandwich,Veg,1 piece(72g),95.76,15.55,2.78,2.49,2.92
+242,Snacks,Brown Bread Tomato Cucumber Paneer Sandwich,Veg,1 piece(85g),125.8,16.03,4.8,4.68,3.28
+243,Dinner,Oats Moong Dal Khichdi,Veg,1 bowl (150g),200.9,28,7,7,0
+244,Dinner,Oats Toor Dal Khichdi,Veg,1 bowl (150g),163.5,25.89,7.29,3.64,4.58
+245,Dinner,Oats Toor Dal Khichdi,Veg,1 bowl (350g),381.5,60.41,17,8.49,10.68
+246,Dinner,Oats Vegetable Khichdi,Veg,1 bowl (150g),201,28.23,7.29,6.93,5.45
+247,Dinner,Plain Toor Dal with Plain Brown Rice (1 serving),Veg,1 bowl (250g),316.5,58.7,16.89,14.3,7.19
+248,Dinner,Plain Urad Dal with Plain Brown Rice (1 serving),Veg,1 bowl (250g),278,47.5,11.52,4.93,1.11
+249,Dinner,Plain Moong Dal with Plain Brown Rice (1 serving),Veg,1 bowl (240g),253,45.5,10.52,2.93,1.11
+250,Dinner,Tomato Kadhi with Plain Brown Rice (1 serving),Veg,1 bowl (250g),190.5,32.64,4.33,4.69,3.52
+251,Dinner,Palak Kadhi with Plain Brown Rice (1 serving),Veg,1 bowl (250g),321,44.05,11.54,10.92,5.68
+252,Dinner,Peas Khichdi (1 serving),Veg,1 serving (100g),101,12.5,3.19,4.27,1.5
+253,Dinner,Peas Khichdi,Veg,1 bowl (233g),235.33,29.12,7.42,9.96,3.5
+254,Dinner,Urad Dal Khichdi (1 serving),Veg,1 serving (150g),157.5,24.46,5.81,4.06,2.77
+255,Dinner,Urad Dal Khichdi,Veg,1 bowl (350g),367.5,57.07,13.57,9.47,6.47
+256,Dinner,Brown Rice Chana Dal Khichdi with vegetables (1 serving),Veg,1 serving (150g),144,22.7,4.81,3.73,3.46
+257,Dinner,Brown Rice Chana Dal Khichdi with vegetables,Veg,1 bowl (350g),336,52.96,11.21,8.69,8.07
+258,Dinner,Bajra Khichdi (1 serving),Veg,1 serving (150g),183,22.98,6.07,7.46,3.74
+259,Dinner,Bajra Khichdi,Veg,1 bowl (350g),427,53.63,14.17,7.4,8.72
+260,Dinner,Masoor Dal Khichdi with vegetables and Chicken (1 serving),Non Veg,1 serving (150g),190.5,29.16,7.1,5.09,2.7
+261,Dinner,Masoor Dal Khichdi with vegetables and Chicken,Non Veg,1 bowl (350g),444.5,68.04,16.57,11.88,6.29
+262,Dinner,Dhudhi Khichdi (1 serving),Veg,1 serving (150g),91.5,15.28,3.43,1.84,2.43
+263,Dinner,Dhudhi Khichdi,Veg,1 bowl (350g),213.5,35.64,7.99,4.29,5.67
+264,Dinner,Barley Khichdi (1 serving),Veg,1 serving (150g),124.5,22.6,7.17,0.7,3.86
+265,Dinner,Barley Khichdi,Veg,1 bowl (350g),290.5,52.76,16.74,1.64,9.02
+266,Dinner,Tomato Khichdi (1 serving),Veg,1 serving (124g),96.72,11.95,3.05,4.01,1.62
+267,Dinner,Tomato Khichdi,Veg,1 bowl (289g),225.42,27.86,7.1,9.34,3.77
+268,Dinner,Milk Dalia without sugar (1 serving),Veg,1 serving (140g),91,12.49,3.43,3.02,1.82
+269,Dinner,Milk Dalia without sugar,Veg,1 bowl (322g),209.3,28.74,7.88,6.94,4.18
+270,Dinner,Barley Dalia Salted (1 serving),Veg,1 serving (150g),139.5,24.78,4,2.7,5.66
+271,Dinner,Barley Dalia Salted,Veg,1 bowl (350g),325.5,57.81,9.34,6.32,13.2
+272,Dinner,Wheat Dalia,Veg,1 bowl (130g),72.2,12,2,2,0
+273,Dinner,Multigrain Dalia,Veg,1 bowl (225g),828,162.65,28.96,6.95,9.52
+274,Dinner,Corn Dalia (1 serving),Veg,1 serving (150g),79.5,15.38,2.77,0.81,2.73
+275,Dinner,Corn Dalia,Veg,1 bowl (350g),185.5,35.89,6.47,1.89,6.37
+276,Dinner,Lauki Dalia (1 serving),Veg,1 serving (150g),118.5,17.63,5.51,2.93,2.95
+277,Dinner,Lauki Dalia,Veg,1 bowl (350g),276.5,41.13,12.85,6.84,6.89
+278,Dinner,Peanut Dalia (1 serving),Veg,1 serving (130g),97.5,12.72,3.28,3.88,2.6
+279,Dinner,Peanut Dalia,Veg,1 bowl (217g),162.75,21.24,5.48,6.47,4.34
+280,Dinner,Brown Rice and Egg white (1 serving),Non Veg,1 serving (124g),78.12,11.28,6.94,0.48,1.11
+281,Dinner,Brown Rice and Egg white,Non Veg,1 bowl (285g),179.55,25.92,15.94,1.1,2.55
+282,Dinner,Palak Brown RIce (1 serving),Veg,4 Standard Serving (150g),130.2,24.73,3.14,2.01,2.13
+283,Dinner,Palak Brown RIce,Veg,1 bowl (289g),303.45,57.64,7.33,4.69,4.95
+284,Dinner,Egg and Cabbage Brown Fried Rice (1 serving),Non Veg,1 serving (124g),166.16,24.19,4.27,5.85,1.5
+285,Dinner,Egg and Cabbage Brown Fried Rice,Non Veg,1 bowl (289g),387.26,56.37,9.95,13.64,3.49
+286,Dinner,Brown Rice Vermicelli,Veg,1 serving (50g),180,39,4,1.5,2
+287,Dinner,Brown Rice Prawn Biryani (1 serving),Non Veg,1 serving (124g),94.24,11.5,5,3.13,0.86
+288,Dinner,Brown Rice Prawn Biryani,Non Veg,1 bowl (270g),205.2,25.03,10.88,6.81,1.88
+289,Dinner,Brown Rice Gruel (1 serving),Veg,1 serving (100g),256.5,50.94,5.89,2.99,3.29
+290,Dinner,Brown Rice Gruel,Veg,1 bowl (326g),557.46,110.71,12.79,6.5,7.16
+291,Dinner,Brown Rice Pulihora (1 serving),Veg,1 serving (124g),385.64,56.69,8.97,13.78,5
+292,Dinner,Brown Rice Pulihora,Veg,1 bowl (150g),466.5,68.58,10.85,16.67,6.04
+293,Dinner,Puliyogare with Brown Rice (1 serving),Veg,1 serving (125g),130,22.24,2.68,3.31,1.16
+294,Dinner,Puliyogare with Brown Rice,Veg,1 bowl (291g),302.64,51.77,6.23,7.7,2.69
+295,Dinner,Brown Rice Khichdi (1 serving),Veg,1 serving (100g),79,15.1,2.37,0.96,1.09
+296,Dinner,Brown Rice Khichdi,Veg,1 bowl (224g),176.96,33.81,5.31,2.15,2.43
+297,Dinner,Boiled Rice,Veg,1 piece (50g),94.4,21,2,0.4,0
+298,Dinner,Sambar Rice (1 serving),Veg,1 serving (100g),85,16.08,3.25,0.84,1.74
+299,Dinner,Sambar Rice,Veg,1 bowl (233g),198.05,37.46,7.57,1.96,4.05
+300,Dinner,Egg Fried Rice,Non Veg,1 serving (100g),290.6,40,7.3,11.2,0
+301,Dinner,Rice Gruel (1 serving),Veg,1 Piece (50g),175.5,39.12,3.78,0.51,0.7
+302,Dinner,Rice Gruel,Veg,1 bowl (350g),409.5,91.29,8.81,1.18,1.62
+303,Dinner,Egg and Spinach Rice (1 serving),Non Veg,1 serving (100g),70,9.69,3.07,2.19,0.81
+304,Dinner,Egg and Spinach Rice,Non Veg,1 bowl (220g),154,21.33,6.76,4.82,1.79
+305,Dinner,Egg Biryani (1 serving),Non Veg,1 serving (124g),301.32,24.8,6.11,19.99,2.23
+306,Dinner,Egg Biryani,Non Veg,1 bowl (270g),656.1,54.01,13.3,43.53,4.86
+307,Dinner,Mutton Biryani (1 serving),Non Veg,1 serving (150g),258,25.6,12.2,12.07,2.34
+308,Dinner,Mutton Biryani,Non Veg,1 bowl (350g),602,58.7,28.47,28.17,5.46
+309,Dinner,Egg and Chicken Biryani (1 serving),Non Veg,1 serving (124g),135.16,13.06,9.87,5.01,1.12
+310,Dinner,Egg and Chicken Biryani,Non Veg,1 bowl (289g),351.01,30.45,23.01,11.67,2.62
+311,Dinner,Keema Biryani (1 serving),Non Veg,1 serving (124g),167.4,20.46,5.38,6.73,0.65
+312,Dinner,Keema Biryani,Non Veg,1 bowl (289g),390.15,47.67,12.55,15.69,1.51
+313,Dinner,Bamboo Chicken Biryani (1 serving),Non Veg,1 serving (124g),109.12,13.9,7.88,2.8,1.35
+314,Dinner,Bamboo Chicken Biryani,Non Veg,1 bowl (289g),254.32,30.74,18.36,6.53,3.14
+315,Dinner,Rajma Biryani (1 serving),Veg,1 serving (124g),155,27.33,3.92,3.17,3.19
+316,Dinner,Rajma Biryani,Veg,1 bowl (289g),361.25,63.69,9.13,7.39,7.43
+317,Dinner,Dal Fry with Plain Brown Rice (1 serving),Veg,1 bowl (250g),267,47.43,11.06,3.59,5.37
+318,Dinner,Dal Tadka with Plain Brown Rice (1 serving),Veg,1 bowl (250g),235,42.5,8.52,1.93,1.11
+319,Dinner,Dal Palak with Plain Brown Rice (1 serving),Veg,1 bowl (250g),334,47.5,12.52,8.93,1.11
+320,Dinner,Chana Dal with Plain Brown Rice (1 serving),Veg,1 bowl (250g),272,48.8,10.62,4.23,1.11
+321,Dinner,Lauki and Mixed Dal with Plain Brown Rice (1 serving),Veg,1 bowl (250g),250.5,44.54,9.73,4.04,7.74
+322,Dinner,Arhar Dal with Plain Brown Rice (1 serving),Veg,1 bowl (250g),235,42.5,8.52,1.93,1.11
+323,Dinner,Red Gram Dal with Plain Brown Rice (1 serving),Veg,1 bowl (240g),217.6,43.29,8.61,2.59,4.19
+324,Dinner,Chicken Kadhi with Plain Brown Rice (1 serving),Non Veg,1 bowl (250g),304.5,39.3,11.14,11.72,3.49
+325,Dinner,Aloo Kadhi with Plain Brown Rice (1 serving),Veg,1 bowl (250g),226.5,41.35,4.85,5.01,2.07
+326,Dinner,Mangodi Kadhi with Plain Brown Rice (1 serving),Veg,1 bowl (250g),282,44.88,11.13,6.41,4.35
+327,Dinner,Punjabi Kadhi and Vegetable Pakodi with Plain Brown Rice (1 serving),Veg,1 bowl (250g),348,39.9,8.99,17.02,3.31
+328,Dinner,Boondi Kadhi with Plain Brown Rice (1 serving),Veg,1 bowl (245g),331.6,39.83,7.8,15.85,3.26
+329,Dinner,Plain Toor Dal with Plain Brown Rice,Veg,1 bowl (383g),390.16,75.1,11.87,3.16,2.59
+330,Dinner,Plain Urad Dal with Plain Brown Rice,Veg,1 bowl (383g),433.61,80.1,14.87,6.16,2.59
+331,Dinner,Plain Moong Dal with Plain Brown Rice,Veg,1 bowl (373g),408.16,78.1,13.87,4.16,2.59
+332,Dinner,Tomato Kadhi with Plain Brown Rice,Veg,1 bowl (383g),346.11,65.24,7.68,5.92,5
+333,Dinner,Palak Kadhi with Plain Brown Rice,Veg,1 bowl (383g),476.61,76.65,14.89,12.15,7.16
+334,Dinner,Dal Fry with Plain Brown Rice,Veg,1 bowl (383g),422.61,80.3,14.41,4.82,6.85
+335,Dinner,Dal Tadka with Plain Brown Rice,Veg,1 bowl (383g),390.61,75.1,11.87,3.16,2.59
+336,Dinner,Dal Palak with Plain Brown Rice,Veg,1 bowl (383g),489.61,80.1,15.87,10.16,2.59
+337,Dinner,Chana Dal with Plain Brown Rice,Veg,1 bowl (383g),427.61,80.5,13.97,5.46,5.67
+338,Dinner,Lauki and Mixed Dal with Plain Brown Rice,Veg,1 bowl (383g),406.11,76.24,13.08,5.27,9.22
+339,Dinner,Arhar Dal with Plain Brown Rice,Veg,1 bowl (383g),390.16,75.1,11.87,3.16,2.59
+340,Dinner,Red Gram Dal with Plain Brown Rice,Veg,1 bowl (373g),383.21,74.79,11.96,3.82,5.67
+341,Dinner,Chicken Kadhi with Plain Brown Rice,Non Veg,1 bowl (383g),460.11,71,14.49,12.95,4.97
+342,Dinner,Aloo Kadhi with Plain Brown Rice,Veg,1 bowl (383g),382.11,73.05,4.85,6.24,3.55
+343,Dinner,Mangodi Kadhi with Plain Brown Rice,Veg,1 bowl (383g),437.61,77.48,14.48,7.59,5.83
+344,Dinner,Punjabi Kadhi and Vegetable Pakodi with Plain Brown Rice,Veg,1 bowl (383g),503.61,72.5,12.34,18.25,4.79
+345,Dinner,Boondi Kadhi with Plain Brown Rice,Veg,1 bowl (378g),487.21,72.43,11.15,17.08,4.74
+346,Dinner,Plain Toor Dal with Boiled Rice,Veg,1 bowl (200g),212.4,39,8,1.4,0
+347,Dinner,Plain Urad Dal with Boiled Rice,Veg,1 bowl (200g),255.4,44,11,4.4,0
+348,Dinner,Plain Moong Dal with Boiled Rice,Veg,1 bowl (190g),230.4,42,10,2.4,0
+349,Dinner,Tomato Kadhi with Boiled Rice,Veg,1 bowl (200g),167.9,29.14,3.81,4.16,5
+350,Dinner,Palak Kadhi with Boiled Rice,Veg,1 bowl (200g),298.4,40.55,11.02,10.39,4.57
+351,Dinner,Dal Fry with Boiled Rice,Veg,1 bowl (200g),244.4,43.93,10.54,3.66,4.26
+352,Dinner,Dal Tadka with Boiled Rice,Veg,1 bowl (200g),212.4,39,8,1.4,0
+353,Dinner,Dal Palak with Boiled Rice,Veg,1 bowl (200g),311.4,44,12,8.4,0
+354,Dinner,Chana Dal with Boiled Rice,Veg,1 bowl (200g),249.4,44.4,10.1,3.7,0
+355,Dinner,Lauki and Mixed Dal with Boiled Rice,Veg,1 bowl (200g),227.9,40.14,9.21,3.15,6.63
+356,Dinner,Arhar Dal with Boiled Rice,Veg,1 bowl (200g),212.4,39,8,1.4,0
+357,Dinner,Red Gram Dal with Boiled Rice,Veg,1 bowl (190g),205,38.69,8.09,2.06,3.08
+358,Dinner,Chicken Kadhi with Boiled Rice,Non Veg,1 bowl (200g),281.9,34.9,10.62,11.19,2.38
+359,Dinner,Aloo Kadhi with Boiled Rice,Veg,1 bowl (200g),203.9,36.95,4.33,4.12,0.96
+360,Dinner,Mangodi Kadhi with Boiled Rice,Veg,1 bowl (200g),259.4,41.38,10.61,5.47,3.24
+361,Dinner,Punjabi Kadhi and Vegetable Pakodi with Boiled Rice,Veg,1 bowl (200g),325.4,36.4,8.47,16.13,2.2
+362,Dinner,Boondi Kadhi with Boiled Rice,Veg,1 bowl (195g),309,36.33,7.28,14.96,2.15
